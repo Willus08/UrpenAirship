@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "134929981711",
+    "firebase_url": "https://urpenairship.firebaseio.com",
+    "project_id": "urpenairship",
+    "storage_bucket": "urpenairship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134929981711:android:7ccc3efda4ba16b7",
+        "android_client_info": {
+          "package_name": "posidenpalace.com.urpenairship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134929981711-0s7oqkpk9c8odlelmjhb48pi6omhci9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "posidenpalace.com.urpenairship",
+            "certificate_hash": "ecc3899beadb427afde1f5bcf84676233aa62ec6"
+          }
+        },
+        {
+          "client_id": "134929981711-di5o3645qmq9iaav9ov0ep68pffcu0s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfN9GoJcfarVPNl4-xI3wlYZLF7AwpTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134929981711-di5o3645qmq9iaav9ov0ep68pffcu0s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
